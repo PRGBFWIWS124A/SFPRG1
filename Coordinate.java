@@ -1,3 +1,4 @@
-public record Coordinate(int column, int row) {
+package SchiffeVersenken;
 
+public record Coordinate(int column,int row) {
 }
